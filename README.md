@@ -1,2 +1,0 @@
-# aircheck-studio
-aircheck-studio
